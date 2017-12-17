@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "903893422303",
+    "firebase_url": "https://helloword-7b97c.firebaseio.com",
+    "project_id": "helloword-7b97c",
+    "storage_bucket": "helloword-7b97c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903893422303:android:2abbe2d3ae3d6249",
+        "android_client_info": {
+          "package_name": "com.firebase.abo3le.firebasehelloworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903893422303-9ni2juog3qr7gp0lvmilga0c5lcrefkt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firebase.abo3le.firebasehelloworld",
+            "certificate_hash": "75bd10740bc7a56da2f0f874d3295bf1af74ab54"
+          }
+        },
+        {
+          "client_id": "903893422303-cdjg4gr2vta4lur5mpj4k72e76s0u2ml.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firebase.abo3le.firebasehelloworld",
+            "certificate_hash": "a09c809f5d72f16c16813a1a9da782d665e47a31"
+          }
+        },
+        {
+          "client_id": "903893422303-9vl8m6nlalbobff1tu23k1jpgkeb1i5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpUcbw2uCHlbp1FGdiDMguaphcBhg1h5s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903893422303-9vl8m6nlalbobff1tu23k1jpgkeb1i5u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903893422303:android:7461ff7e3270fe39",
+        "android_client_info": {
+          "package_name": "a2lend.app.com.a2lend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903893422303-6kqo4oua1isc05ia227uib14as1oah7g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "a2lend.app.com.a2lend",
+            "certificate_hash": "75bd10740bc7a56da2f0f874d3295bf1af74ab54"
+          }
+        },
+        {
+          "client_id": "903893422303-9vl8m6nlalbobff1tu23k1jpgkeb1i5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpUcbw2uCHlbp1FGdiDMguaphcBhg1h5s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903893422303-9vl8m6nlalbobff1tu23k1jpgkeb1i5u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
